@@ -27,7 +27,7 @@
 </body>
 </html>
 ```
-SVG 代码也可以写在一个独立文件中，然后用<img>、<object>、<embed>、<iframe>等标签插入网页。
+SVG 代码也可以写在一个独立文件中，然后用`<img>`、`<object>`、`<embed>`、<iframe>等标签插入网页。
 
 ```
 <img src="circle.svg">
